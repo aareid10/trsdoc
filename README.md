@@ -245,6 +245,4 @@
 
 
 
-Full documentation coming soon.
-
 by [Alex Reid](https://github.com/aareid10)
