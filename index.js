@@ -1,6 +1,8 @@
 module.exports = (document) => {
 
-  const unqry = {
+  // TODO: Analize and restructure naming conventions
+
+  const trsdoc = {
 
     /* A Aliases * * * * * * * * * * * * * * * * * * * * */
       adoptNode: document.adoptNode.bind(document),
@@ -240,5 +242,5 @@ module.exports = (document) => {
 
   }
 
-  return unqry;
+  return trsdoc;
 }
