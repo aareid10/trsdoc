@@ -7,8 +7,8 @@
 ### Aliases Overview
 
 #### A Aliases * * * * * * * * * * * * * * * * * * * * *
-> - **trsdoc.trsdoc.adoptNode**: ` document.adoptNode.bind(document)`
-> - **trsdoc.trsdoc.append**: ` document.append.bind(document)`
+> - **trsdoc.adoptNode**: ` document.adoptNode.bind(document)`
+> - **trsdoc.append**: ` document.append.bind(document)`
 
 
 
