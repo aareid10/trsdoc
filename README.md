@@ -1,6 +1,6 @@
 <p align="center"><img src="https://s22.postimg.cc/5l93pjftt/trsdoc_logo.png"></p>
 
-### Note: This package is no longer being maintainted.
+### Note: This package is no longer being maintained.
 
 #### Maps the document object attributes & API to a set of terse aliases: [trsDoc](https://www.npmjs.com/package/trsdoc)
 
